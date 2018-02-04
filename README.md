@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="http://kamilmysliwiec.com/public/nest-logo.png#1" alt="Nest Logo" /></a>
 </p>
@@ -78,3 +79,7 @@ I am on a mission to provide an architecture to create truly flexible, scalable 
 <a href="https://opencollective.com/nest/backer/28/website" target="_blank"><img src="https://opencollective.com/nest/backer/28/avatar.svg"></a>
 <a href="https://opencollective.com/nest/backer/29/website" target="_blank"><img src="https://opencollective.com/nest/backer/29/avatar.svg"></a>
 
+=======
+# profilize-api
+Api for the Profilize project
+>>>>>>> 5f4e8983e2c2cd96fdfa33208f6954a23889b99b
